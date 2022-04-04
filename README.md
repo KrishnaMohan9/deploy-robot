@@ -1,2 +1,2 @@
 # deploy-robot
-yaml script to create a RABC
+Download the file in to your local device and modify as per the requirments.
